@@ -80,6 +80,7 @@ PHP-based web application for managing books, users, lending, selling, adding, e
 
 Some of my strongest work was built for real business environments and is not fully available as public repositories.
 
+- **ERP SYSTEM** ERP system that includes subsystems such as accounting, sales, purchasing, inventory, and other ERP modules
 - **Multi-Tenant HRMS Platform:** HRMS covering attendance, payroll, offboarding, employee records, mobile API integration, and ZKTeco biometric attendance devices.
 - **ZATCA E-Invoicing Integration:** Integration between accounting systems and the Saudi Zakat, Tax and Customs Authority for automated e-invoicing compliance.
 - **Salla ERP Integration:** Integration between Salla and ERP systems to synchronize items and categories, convert orders into sales invoices, and map customers and payment methods.
