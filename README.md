@@ -50,32 +50,6 @@ Git, GitHub, Docker, CI/CD, Deployment, Cloud, DevOps
 - Business automation tools that reduce manual work and improve operational accuracy.
 - AI-powered solutions for document analysis, computer vision, face recognition, and remote sensing use cases.
 
-## Featured Projects
-
-### Exchange Companies Management System
-Financial business system built with Oracle APEX, Oracle Database 19c and PL/SQL for managing exchange company operations.  
-[Repository](https://github.com/OmarSoftArch/Exchange-Companies-Management-System-with-apex)
-
-### Medical Laboratory Management System
-Oracle APEX-based system for managing medical lab workflows, records, and operational processes.  
-[Repository](https://github.com/OmarSoftArch/Laboraroty-management-system-with-oracle-apex)
-
-### POS with Oracle APEX
-Point-of-sale prototype using Oracle APEX Collections to simulate fast sales transactions and business operations.  
-[Repository](https://github.com/OmarSoftArch/POS-with-oracle-apex)
-
-### Customer Management System
-Oracle APEX customer management system with create, update, delete, search, filtering, and Excel import features.  
-[Repository](https://github.com/OmarSoftArch/Customer-Management-with-Oracel-Apex)
-
-### Library Management System
-Graduation project built with C# and WPF, connected to an Azure cloud database.  
-[Repository](https://github.com/OmarSoftArch/Library-Management-System)
-
-### E-Book Library Website
-PHP-based web application for managing books, users, lending, selling, adding, editing, and deleting library content.  
-[Repository](https://github.com/OmarSoftArch/E-Book-Library-website-with-php)
-
 ## Selected Professional Work
 
 Some of my strongest work was built for real business environments and is not fully available as public repositories.
@@ -96,7 +70,6 @@ Feel free to explore my work or reach out through any of the platforms below:
 - 📧 Email: [omaralmunssoe@gmail.com](mailto:omaralmunssoe@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/omar-abdulhameed-653756158](https://www.linkedin.com/in/omar-abdulhameed-653756158)  
 - 🐦 Twitter: [@OmarAlfuhaidi](https://twitter.com/OmarAlfuhaidi)  
-- 📱 WhatsApp: [Message Me](https://wa.me/967715581263)
 - GitHub: [github.com/OmarSoftArch](https://github.com/OmarSoftArch)
 
 
