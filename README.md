@@ -50,18 +50,6 @@ Git, GitHub, Docker, CI/CD, Deployment, Cloud, DevOps
 - Business automation tools that reduce manual work and improve operational accuracy.
 - AI-powered solutions for document analysis, computer vision, face recognition, and remote sensing use cases.
 
-## Selected Professional Work
-
-Some of my strongest work was built for real business environments and is not fully available as public repositories.
-
-- **ERP System:** ERP system that includes subsystems such as accounting, sales, purchasing, inventory, and other ERP modules
-- **Multi-Tenant HRMS Platform:** HRMS covering attendance, payroll, offboarding, employee records, mobile API integration, and ZKTeco biometric attendance devices.
-- **ZATCA E-Invoicing Integration:** Integration between accounting systems and the Saudi Zakat, Tax and Customs Authority for automated e-invoicing compliance.
-- **Salla ERP Integration:** Integration between Salla and ERP systems to synchronize items and categories, convert orders into sales invoices, and map customers and payment methods.
-- **Secure Mobile APIs:** JWT-secured APIs for connecting mobile applications with enterprise systems.
-- **AI Resume Screener:** Python and NLP-based tool for analyzing and ranking CVs against job descriptions.
-- **Computer Vision Automation:** Face recognition and computer vision solutions using Python and OpenCV.
-
 ## 🤝 Let's Connect
 
 I'm always open to collaboration, learning, and contributing to meaningful projects.  
