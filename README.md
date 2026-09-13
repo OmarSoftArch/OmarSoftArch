@@ -7,7 +7,7 @@ Software Engineer building ERP, SaaS and AI-powered business systems with Oracle
 ## About Me
 
 - Software Engineer with hands-on experience in ERP, HRMS, accounting systems, and SaaS platforms.
-- Specialized in Oracle APEX, PL/SQL, database design, backend development, and secure API integrations.
+- Specialized in .NET , Oracle APEX, PL/SQL, database design, backend development, and secure API integrations.
 - Experienced in ZATCA e-invoicing, Salla ERP integration, biometric attendance systems, and business workflow automation.
 - Interested in AI, NLP, computer vision, and automation solutions that solve real operational problems.
 - I enjoy designing systems that are practical, scalable, and easy to maintain.
