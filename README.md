@@ -55,7 +55,7 @@ Git, GitHub, Docker, CI/CD, Deployment, Cloud, DevOps
 I'm always open to collaboration, learning, and contributing to meaningful projects.  
 Feel free to explore my work or reach out through any of the platforms below:
 
-- 📧 Email: [omaralmunssoe@gmail.com](mailto:omar_abdulhamid@outlook.sa)  
+- 📧 Email: [omar_abdulhamid@outlook.sa)](mailto:omar_abdulhamid@outlook.sa)  
 - 💼 LinkedIn: [linkedin.com/in/omar-abdulhameed-653756158](https://www.linkedin.com/in/omar-abdulhameed-653756158)  
 - 🐦 Twitter: [@OmarAlfuhaidi](https://twitter.com/OmarAlfuhaidi)  
 - GitHub: [github.com/OmarSoftArch](https://github.com/OmarSoftArch)
